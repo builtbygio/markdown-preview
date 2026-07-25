@@ -3,10 +3,11 @@
   "version": "0.160.2",
   "main": "./lib/main",
   "description": "Open a rendered version of the Markdown in the current editor with `ctrl-shift-m`.",
-  "repository": "https://github.com/atom/markdown-preview",
+  "repository": "https://github.com/builtbygio/markdown-preview",
   "license": "MIT",
   "engines": {
-    "atom": "*"
+    "atom": "*",
+    "chevron": "*"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
