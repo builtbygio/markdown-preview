@@ -1,3 +1,5 @@
+declare const atom: any
+
 const fs = require('fs-plus')
 const { CompositeDisposable } = require('atom')
 
