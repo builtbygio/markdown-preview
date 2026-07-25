@@ -1,3 +1,5 @@
+declare const atom: any
+
 const { TextEditor } = require('atom')
 const path = require('path')
 const createDOMPurify = require('dompurify')
